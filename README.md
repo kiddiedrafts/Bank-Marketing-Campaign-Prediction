@@ -10,7 +10,7 @@ The dataset used in this project is sourced from Kaggle and can be found at the 
 
 The dataset contains data from a direct marketing campaign by a Portuguese bank. Each row represents a customer contacted during the campaign, with features describing their demographic and financial status, as well as details of the contact.
 
-### Dataset Highlights
+### Dataset Columns
 
 The dataset consists of the following columns:
 - **age**: Customer's age.
